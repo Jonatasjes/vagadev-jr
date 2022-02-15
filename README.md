@@ -27,7 +27,7 @@ Finalizando esses itens você terá terminado a etapa 01 da avaliação.
 
 * **PLUS:** Junto com a ação de exibição do lightbox atualize a quantidade de itens na sacola presente na direita header.
 
-Finalizando esses itens você terá terminado a etapa 02 da avaliação.
+Finalizando esses itens você terá terminado a etapa 2 da avaliação.
 
 ### EXTRA ###
 * Se você chegou até aqui você já é bem top! Essa etapa é um extra, e um diferencial para quem quiser se descatar. Note que no header existe elementos sem interação. Como contato e busca. Desenvolva uma solução para um desses elementos.
